@@ -1,0 +1,137 @@
+{
+	"profileName":{
+		"findBy":"xpath",
+		"locator":"//input[@type='text' and @class='x-form-text x-form-field x-form-invalid']",
+	},
+	
+	"androidDrpdwn":{
+		"findBy":"xpath",
+		"locator":"//input[@type='text' and @class='x-form-text x-form-field i-icon-combo-input x-trigger-noedit']",
+	},
+	
+	"selectAndroidplus":{
+		"findBy":"xpath",
+		"locator":"//div[@class='x-layer x-combo-list ']/div/div[3]",
+	},
+	
+	"selectPackage":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(), 'Packages') and @class='x-tab-strip-text ']",
+	},
+	
+	"searchEntry1":{
+		"findBy":"xpath",
+		"locator":"//input[@class='x-form-text x-form-field x-form-empty-field x-column']",
+	},
+	
+	"addButton":{
+		"findBy":"xpath",
+		"locator":"//button[@class=' x-btn-text i-btn-add']",
+	},
+	
+	"searchTextbox":{
+		"findBy":"xpath",
+		"locator":"//input[@class='x-form-text x-form-field x-form-empty-field x-column']",
+	},
+	
+	"selectEntry1":{
+		"findBy":"xpath",
+		"locator":"//div[contains(text(), 'Youtube') and @class= 'x-grid3-cell-inner x-grid3-col-0']/preceding::div[@class='x-grid3-cell-inner x-grid3-col-checker']",
+	},
+	
+	"addPackage":{
+		"findBy":"xpath",
+		"locator":"//*[contains(text(), 'Add') and @class=' x-btn-text']",
+	},
+	
+	"addButton2":{
+		"findBy":"xpath",
+		"locator":"//button[@class=' x-btn-text i-btn-add']",
+	},
+	
+	"searchTextbox2":{
+		"findBy":"xpath",
+		"locator":"//input[@class='x-form-text x-form-field x-form-empty-field x-column']",
+	},
+	
+	"searchEntry2":{
+		"findBy":"xpath",
+		"locator":"//input[@class='x-form-text x-form-field x-form-empty-field x-column']",
+	},
+	
+	"selectEntry2":{
+		"findBy":"xpath",
+		"locator":"//div[contains(text(), 'BBC news') and @class= 'x-grid3-cell-inner x-grid3-col-0']/preceding::div[@class='x-grid3-cell-inner x-grid3-col-checker']",
+	},
+	
+	"addPackage2":{
+		"findBy":"xpath",
+		"locator":"//*[contains(text(), 'Add') and @class=' x-btn-text']",
+	},
+	
+	"addButton3":{
+		"findBy":"xpath",
+		"locator":"//button[@class=' x-btn-text i-btn-add']",
+	},
+	
+	"searchTextbox3":{
+		"findBy":"xpath",
+		"locator":"//input[@class='x-form-text x-form-field x-form-empty-field x-column']",
+	},
+	
+	"searchEntry3":{
+		"findBy":"xpath",
+		"locator":"//input[@class='x-form-text x-form-field x-form-empty-field x-column']",
+	},
+	
+	"selectEntry3":{
+		"findBy":"xpath",
+		"locator":"//div[contains(text(), 'ColorNote') and @class= 'x-grid3-cell-inner x-grid3-col-0']/preceding::div[@class='x-grid3-cell-inner x-grid3-col-checker']",
+	},
+	
+	"addPackage3":{
+		"findBy":"xpath",
+		"locator":"//*[contains(text(), 'Add') and @class=' x-btn-text']",
+	},
+	
+	"addButton4":{
+		"findBy":"xpath",
+		"locator":"//button[@class=' x-btn-text i-btn-add']",
+	},
+	
+	"searchTextbox4":{
+		"findBy":"xpath",
+		"locator":"//input[@class='x-form-text x-form-field x-form-empty-field x-column']",
+	},
+	
+	"searchEntry4":{
+		"findBy":"xpath",
+		"locator":"//input[@class='x-form-text x-form-field x-form-empty-field x-column']",
+	},
+	
+	"searchPackage4":{
+		"findBy":"xpath",
+		"locator":"//div[contains(text(), 'AMAZON') and @class= 'x-grid3-cell-inner x-grid3-col-0']/preceding::div[@class='x-grid3-cell-inner x-grid3-col-checker']",
+	},
+	
+	"addPackage4":{
+		"findBy":"xpath",
+		"locator":"//*[contains(text(), 'Add') and @class=' x-btn-text']",
+	},
+	
+	"saveAndAssign":{
+		"findBy":"xpath",
+		"locator":"//button[contains(text(), 'Save and Assign')]",
+	},
+	
+	"folderAssign":{
+		"findBy":"xpath",
+		"locator":"//img[@class='mcw-tree-checkbox-base i-checkbox-0']",
+	},
+	
+	"assignPackage":{
+		"findBy":"xpath",
+		"locator":"//button[contains(text(), 'Assign')]",
+	},
+}
+	

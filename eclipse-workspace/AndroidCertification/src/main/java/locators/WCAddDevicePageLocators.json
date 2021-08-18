@@ -1,0 +1,121 @@
+{
+	"addDevice":{
+	"findBy":"xpath",
+    "locator":"//img[@class=\"x-tree-node-icon i-rule-adddevices-category\"]/following::span[contains(text(),\"Add Devices\")][6]"
+	},
+		
+	"createAddDevice":{
+	"findBy":"xpath",
+	"locator":"//div[@class=\"x-menu x-menu-floating x-layer\"]/ul/li/a"
+	},
+	
+	"entercleanName":{
+	"findBy":"xpath",
+   	"locator":"//input[@autocomplete=\"off\" and @maxlength=\"130\"]"
+	},
+	
+	"Next1":{
+    "findBy":"xpath",
+    "locator":"//button[@id=\"Next NameCard\"]"
+	},
+	
+	"userGroup":{
+	"findBy":"xpath",
+	"locator":"//label[contains(text(), \"Based on User Group Membership\")]"
+	},
+	
+	"Next2":{
+	"findBy":"xpath",
+	"locator":"//*[@id=\"Next AddDevicesEnrollOptionCard\"]"
+	},
+	
+	"usergroupText":{
+	"findBy":"xpath",
+	"locator":"//div[@class=\"x-form-field-wrap x-form-field-trigger-wrap x-box-item\" and @style=\"width: 331px; left: 166px; top: 0px;\"]/input"
+	},
+		
+	"usergroupAdd":{
+	"findBy":"xpath",
+	"locator":"//em[@unselectable=\"on\"]/following::button[contains(text(), \"Add\") and @class=\" x-btn-text\"]"
+	},
+	
+	"usergroupDropdown":{
+	"findBy":"xpath",
+	"locator":"//input[@type=\"text\" and @class=\"x-form-text x-form-field x-trigger-noedit x-form-invalid x-form-focus\"]"
+	},
+	
+	"automationFolder":{
+	"findBy":"xpath",
+	"locator":"//div[@class=\"x-panel-body x-panel-body-noheader\" and @style=\"overflow: auto; height: 248px; width: 146px;\"]/ul/div/li[2]/div"
+	},
+	
+	"Folder":{
+		"findBy":"xpath",
+		"locator":"//img[@class=\"mcw-tree-checkbox-base i-checkbox-0\"]"
+	},
+	
+	"Next3":{
+		"findBy":"xpath",
+		"locator":"//*[@id=\"Next TargetCard\"]"
+	},
+	
+	"mgpaNext3":{
+		"findBy":"xpath",
+		"locator":"//*[@id=\"Next AddDevicesLdapMappingsCard\"]"
+	},
+	
+	"Next4":{
+		"findBy":"xpath",
+		"locator":"//*[@id=\"Next AddDevicesAuthCard\"]"
+	},
+	
+	"skipradioButton":{
+		"findBy":"xpath",
+		"locator":"//label[contains(text(), \"Skip Google Account Addition During Enrollment on Managed Android Devices\" )]"
+	},
+	
+	"mgparadioButton":{
+		"findBy":"xpath",
+		"locator":"//label[contains(text(), \"Managed Google Play Accounts\")]"
+	},
+	
+	"googleAccountDropdown":{
+		"findBy":"xpath",
+		"locator":"//input[@class=\"x-form-text x-form-field x-trigger-noedit\" and @style=\"width: 275px;\"]"
+	},
+	
+	"bindedAccount":{
+		"findBy":"xpath",
+		"locator":"//div[contains(text(), \"AndroidAutomation\")]"
+	},
+	
+	"Next5":{
+		"findBy":"xpath",
+		"locator":"//button[@id=\"Next AddDevRuleTermsCard\"]"
+	},
+	
+	"Skip":{
+		"findBy":"xpath",
+		"locator":"//div[@class=\"x-box-inner\" and @style=\"width: 602px; height: 290px;\"]/div[3]/div/input"
+	},
+	
+	"Next6":{
+		"findBy":"xpath",
+		"locator":"//button[@id=\"Next AddDevicesAndroidEnterpriseCard\"]"
+	},
+	
+	"Next7":{
+		"findBy":"xpath",
+		"locator":"//*[@id=\"Next ManufactureManagementCard\"]"
+	},
+	
+	"Next8":{
+		"findBy":"xpath",
+		"locator":"//button[@id=\"Next DeviceNameCard\"]"
+	},
+	
+	"Finish":{
+		"findBy":"xpath",
+		"locator":"//button[@id=\"Next SummaryCard\"]"
+	}
+}

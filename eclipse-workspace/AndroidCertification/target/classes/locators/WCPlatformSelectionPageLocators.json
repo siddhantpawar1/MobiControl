@@ -1,0 +1,7 @@
+{
+	"androidPlus":{
+		"findBy":"xpath",
+		"locator":"//div[@class=\"//div[@class=\"x-panel-body x-panel-body-noheader x-panel-body-noborder\" and @style=\"background: url("/MobiControl/Legacy/WebConsole/content/Images/androidpluspressed.png") no-repeat transparent; cursor: pointer; width: 82px; height: 51px;\"]\",
+	},
+	
+}

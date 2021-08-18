@@ -1,0 +1,905 @@
+[INFO ] 2021-07-27 10:11:29.586 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:11:29.601 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:11:29.659 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:11:29.660 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:11:30.459 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:11:30.460 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:11:32.135 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:11:32.201 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:11:32.261 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:11:32.262 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:11:42.322 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:11:42.323 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:11:42.323 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:11:42.383 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:11:42.384 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:11:45.556 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:11:45.556 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:11:47.452 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:11:47.452 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:11:47.592 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:11:47.593 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 10:11:47.887 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:11:47.888 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 10:11:47.973 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:11:47.973 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 10:11:52.083 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 10:11:52.084 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 10:11:55.119 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:11:55.121 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 10:11:55.173 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:11:55.257 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 10:11:55.258 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 10:11:55.304 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:11:55.305 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 10:11:56.255 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:11:56.321 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 10:11:56.321 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 10:14:28.528 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:14:28.536 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:14:28.588 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:14:28.589 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:14:29.435 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:14:29.437 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:14:31.102 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:14:31.169 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:14:31.229 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:14:31.230 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:14:41.277 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:14:41.277 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:14:41.279 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:14:41.350 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:14:41.350 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:14:43.391 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:14:43.392 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:14:45.370 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:14:45.371 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:14:45.493 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:14:45.494 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 10:14:45.775 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:14:45.776 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 10:14:45.864 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:14:45.864 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 10:14:49.961 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 10:14:49.962 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 10:14:52.899 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:14:52.900 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 10:14:52.972 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:14:53.056 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 10:14:53.057 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 10:14:53.103 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:14:53.103 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 10:14:53.985 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:14:54.074 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 10:14:54.074 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 10:21:34.878 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:21:34.886 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:21:34.932 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:21:34.933 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:21:35.757 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:21:35.758 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:21:38.822 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:21:38.891 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:21:38.949 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:21:38.949 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:21:49.003 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:21:49.003 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:21:49.004 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:21:49.061 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:21:49.062 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:21:51.214 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:21:51.215 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:21:53.127 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:21:53.127 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:21:53.170 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:21:53.172 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:21:53.172 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 10:22:03.234 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 10:22:03.234 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:22:03.234 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 10:22:13.291 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 10:22:13.292 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:22:13.293 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 10:22:23.362 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 10:22:38.173 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:22:38.182 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:22:38.229 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:22:38.231 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:22:38.994 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:22:38.994 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:22:43.010 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:22:43.076 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:22:43.136 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:22:43.137 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:22:53.163 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:22:53.163 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:22:53.163 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:22:53.215 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:22:53.216 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:22:55.243 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:22:55.244 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:22:57.203 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:22:57.204 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:22:57.324 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:22:57.325 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 10:22:57.550 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:22:57.551 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 10:22:57.646 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:22:57.647 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 10:23:01.772 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 10:23:01.774 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 10:23:04.994 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:23:04.995 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 10:23:05.052 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:23:05.140 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 10:23:05.140 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 10:23:05.189 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:23:05.190 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 10:23:06.069 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:23:06.131 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 10:23:06.132 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 10:23:42.593 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:23:42.602 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:23:42.648 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:23:42.649 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:23:43.413 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:23:43.414 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:23:44.826 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:23:44.900 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:23:44.959 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:23:44.960 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:23:55.000 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:23:55.000 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:23:55.001 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:23:55.059 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:23:55.061 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:23:57.052 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:23:57.053 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:23:58.922 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:23:58.923 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:23:59.116 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:23:59.116 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 10:24:09.149 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 10:24:09.149 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:24:09.149 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 10:24:19.211 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 10:24:19.211 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:24:19.211 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 10:24:20.194 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:24:20.202 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:24:20.249 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:24:20.250 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:24:21.010 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:24:21.011 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:24:24.290 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:24:24.354 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:24:24.440 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:24:24.441 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:24:29.258 [main] Log - Failed to find or click element: meOKBtn
+[ERROR] 2021-07-27 10:24:34.510 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:24:34.510 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:24:34.511 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:24:34.572 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:24:34.573 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:24:36.787 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:24:36.788 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:24:38.746 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:24:38.747 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:24:38.791 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:24:38.793 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:24:38.793 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 10:24:48.862 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 10:24:48.862 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:24:48.863 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 10:24:58.886 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 10:24:58.886 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:24:58.886 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 10:25:08.955 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 10:25:26.264 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:25:26.272 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:25:26.316 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:25:26.317 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:25:27.061 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:25:27.063 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:25:30.210 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:25:30.272 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:25:30.329 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:25:30.330 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:25:40.365 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:25:40.365 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:25:40.366 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:25:40.422 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:25:40.422 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:25:43.246 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:25:43.247 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:25:45.798 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:25:45.798 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:25:45.848 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:25:45.850 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:25:45.851 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 10:25:55.884 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 10:25:55.884 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:25:55.885 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 10:26:05.954 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 10:26:05.955 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:26:05.957 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 10:26:16.043 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 10:29:39.012 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:29:39.021 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:29:39.073 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:29:39.074 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:29:39.864 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:29:39.865 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:29:41.757 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:29:41.823 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:29:41.886 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:29:41.887 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:29:51.900 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:29:51.900 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:29:51.901 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:29:51.956 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:29:51.957 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:29:54.673 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:29:54.674 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:29:57.123 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:29:57.124 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:29:57.184 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:29:57.185 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:29:57.186 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 10:30:07.226 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 10:30:07.227 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:30:07.228 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 10:30:17.292 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 10:30:17.292 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:30:17.294 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 10:30:27.371 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 10:32:33.176 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:32:33.184 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:32:33.230 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:32:33.231 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:32:34.504 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:32:34.505 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:32:36.541 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:32:36.599 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:32:36.657 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:32:36.657 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:32:46.723 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:32:46.723 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:32:46.726 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:32:46.781 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:32:46.783 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:32:48.964 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:32:48.965 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:32:51.069 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:32:51.070 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:32:51.133 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:32:51.135 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:32:51.136 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 10:33:01.160 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 10:33:01.160 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:33:01.161 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 10:33:11.211 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 10:33:11.212 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:33:11.213 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 10:33:21.239 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 10:35:48.952 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:35:48.960 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:35:49.008 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:35:49.009 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:35:50.152 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:35:50.153 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:35:51.707 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:35:51.772 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:35:51.830 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:35:51.831 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:36:01.882 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:36:01.882 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:36:01.882 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:36:01.936 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:36:01.937 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:36:04.800 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:36:04.801 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:36:07.350 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:36:07.351 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:36:17.417 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:36:17.420 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:36:17.421 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 10:36:27.427 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 10:36:27.427 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:36:27.428 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 10:36:37.448 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 10:36:37.449 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:36:37.449 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 10:36:47.484 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 10:38:47.655 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:38:47.663 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:38:47.709 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:38:47.710 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:38:48.931 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:38:48.932 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:38:51.715 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:38:51.781 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:38:51.841 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:38:51.842 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:39:01.870 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:39:01.870 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:39:01.871 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:39:07.309 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:39:07.310 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:39:07.356 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:39:07.357 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:39:08.921 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:39:08.921 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:39:18.967 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:39:18.969 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:39:18.969 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 10:39:28.988 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 10:39:28.988 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:39:28.990 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 10:39:39.018 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 10:39:39.018 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:39:39.018 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 10:39:49.036 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 10:40:20.482 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:40:20.490 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:40:20.536 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:40:20.537 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:40:21.358 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:40:21.359 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:40:23.429 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:40:23.494 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:40:23.551 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:40:23.552 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:40:33.596 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:40:33.597 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:40:33.597 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:40:39.194 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:40:39.195 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:40:39.241 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:40:39.242 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:40:40.833 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:40:40.834 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:40:40.884 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:40:40.886 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:40:40.887 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 10:40:45.195 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:40:45.195 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 10:40:45.281 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:40:45.282 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 10:40:49.392 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 10:40:49.393 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 10:40:52.418 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:40:52.419 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 10:40:52.479 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:40:52.568 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 10:40:52.568 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 10:40:52.615 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:40:52.616 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 10:40:53.523 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:40:53.647 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 10:40:53.648 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 10:48:59.974 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:48:59.983 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:49:00.068 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:49:00.069 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:49:00.890 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:49:00.892 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:49:03.110 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:49:03.180 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:49:03.238 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:49:03.239 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:49:13.278 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:49:13.279 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:49:13.279 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:49:19.537 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:49:19.538 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:49:19.592 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:49:19.593 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:49:21.249 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:49:21.250 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 10:49:21.351 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:49:21.353 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:49:21.354 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 10:49:26.323 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:49:26.324 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 10:49:26.403 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:49:26.403 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 10:49:30.496 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 10:49:30.497 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 10:49:33.452 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:49:33.452 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 10:49:33.499 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:49:33.611 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 10:49:33.611 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 10:49:33.655 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:49:33.656 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 10:49:34.461 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:49:34.530 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 10:49:34.530 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 10:53:29.525 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:53:29.533 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 10:53:29.578 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 10:53:29.579 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 10:53:30.433 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 10:53:30.434 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 10:53:32.235 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 10:53:32.301 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 10:53:32.371 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 10:53:32.372 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 10:53:42.416 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 10:53:42.416 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 10:53:42.417 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 10:53:47.915 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 10:53:47.916 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 10:53:47.964 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 10:53:47.964 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 10:53:49.536 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:53:49.539 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 10:53:49.663 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 10:53:49.664 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 10:53:50.027 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 10:53:50.028 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 10:53:50.110 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 10:53:50.111 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 10:53:54.208 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 10:53:54.209 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 10:53:57.233 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:53:57.235 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 10:53:57.293 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 10:53:57.377 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 10:53:57.378 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 10:53:57.425 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:53:57.426 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 10:53:58.277 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 10:53:58.366 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 10:53:58.367 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 10:53:58.432 [main] Log - Reading element from JSON file: completeSignUp
+[INFO ] 2021-07-27 10:53:58.432 [main] Log - Clicking element: completeSignUp
+[INFO ] 2021-07-27 10:54:00.137 [main] Log - Reading element from JSON file: reEnroll
+[INFO ] 2021-07-27 10:54:00.139 [main] Log - Clicking element: reEnroll
+[ERROR] 2021-07-27 10:54:10.184 [main] Log - Failed to find or click element: reEnroll
+[INFO ] 2021-07-27 11:25:28.420 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 11:25:28.431 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 11:25:28.533 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 11:25:28.534 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 11:25:29.341 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 11:25:29.342 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 11:25:32.389 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 11:25:32.452 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 11:25:32.521 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 11:25:32.522 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 11:25:42.602 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 11:25:42.603 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 11:25:42.604 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 11:25:48.097 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 11:25:48.098 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 11:25:48.146 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 11:25:48.146 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 11:25:49.643 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 11:25:49.645 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 11:25:49.700 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 11:25:49.702 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 11:25:49.702 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 11:25:59.563 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 11:25:59.564 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 11:25:59.650 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 11:25:59.650 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 11:26:03.790 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 11:26:03.791 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 11:26:06.695 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 11:26:06.697 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 11:26:06.750 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 11:26:06.844 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 11:26:06.844 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 11:26:06.895 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 11:26:06.896 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 11:26:07.806 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 11:26:07.875 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 11:26:07.875 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 11:26:07.962 [main] Log - Reading element from JSON file: completeSignUp
+[INFO ] 2021-07-27 11:26:07.963 [main] Log - Clicking element: completeSignUp
+[INFO ] 2021-07-27 11:26:09.875 [main] Log - Reading element from JSON file: reEnroll
+[INFO ] 2021-07-27 11:26:09.876 [main] Log - Clicking element: reEnroll
+[INFO ] 2021-07-27 11:28:20.021 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 11:28:20.029 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 11:28:20.072 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 11:28:20.073 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 11:28:20.888 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 11:28:20.888 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 11:28:25.173 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 11:28:25.240 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 11:28:25.300 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 11:28:25.300 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 11:28:35.327 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 11:28:35.327 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 11:28:35.328 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 11:28:40.863 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 11:28:40.864 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 11:28:40.913 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 11:28:40.916 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 11:28:42.327 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 11:28:42.328 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 11:28:42.455 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 11:28:42.456 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 11:28:46.489 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 11:28:46.490 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 11:28:46.584 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 11:28:46.585 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 11:28:50.687 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 11:28:50.688 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 11:28:53.724 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 11:28:53.724 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 11:28:53.776 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 11:28:53.864 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 11:28:53.864 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 11:28:53.911 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 11:28:53.912 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 11:28:54.799 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 11:28:54.870 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 11:28:54.870 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 11:28:54.953 [main] Log - Reading element from JSON file: completeSignUp
+[INFO ] 2021-07-27 11:28:54.954 [main] Log - Clicking element: completeSignUp
+[ERROR] 2021-07-27 11:29:04.971 [main] Log - Failed to find or click element: completeSignUp
+[INFO ] 2021-07-27 11:29:04.978 [main] Log - Reading element from JSON file: reEnroll
+[INFO ] 2021-07-27 11:29:04.979 [main] Log - Clicking element: reEnroll
+[ERROR] 2021-07-27 11:29:14.235 [main] Log - Failed to find or click element: reEnroll
+[INFO ] 2021-07-27 11:32:42.851 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 11:32:42.859 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 11:32:42.903 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 11:32:42.904 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 11:32:43.645 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 11:32:43.646 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 11:32:46.300 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 11:32:46.365 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 11:32:46.424 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 11:32:46.425 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 11:32:56.448 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 11:32:56.448 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 11:32:56.449 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 11:33:02.389 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 11:33:02.390 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 11:33:02.439 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 11:33:02.439 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 11:33:04.338 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 11:33:04.338 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 11:33:04.471 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 11:33:04.471 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 11:33:04.590 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 11:33:04.591 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 11:33:04.677 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 11:33:04.678 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 11:33:08.791 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 11:33:08.792 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 11:33:11.653 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 11:33:11.654 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 11:33:11.743 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 11:33:11.830 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 11:33:11.831 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 11:33:11.878 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 11:33:11.878 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 11:33:12.715 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 11:33:12.813 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 11:33:12.813 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 11:33:12.866 [main] Log - Reading element from JSON file: completeSignUp
+[INFO ] 2021-07-27 11:33:12.866 [main] Log - Clicking element: completeSignUp
+[INFO ] 2021-07-27 11:33:14.349 [main] Log - Reading element from JSON file: reEnroll
+[INFO ] 2021-07-27 11:33:14.351 [main] Log - Clicking element: reEnroll
+[ERROR] 2021-07-27 11:33:24.440 [main] Log - Failed to find or click element: reEnroll
+[INFO ] 2021-07-27 12:05:56.217 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 12:05:56.227 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 12:05:56.279 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 12:05:56.280 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 12:05:57.062 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 12:05:57.063 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 12:05:58.587 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 12:05:58.655 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 12:05:58.714 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 12:05:58.715 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 12:06:08.790 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 12:06:08.790 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 12:06:08.792 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 12:06:15.188 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 12:06:15.190 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 12:06:15.240 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 12:06:15.241 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 12:06:16.997 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 12:06:16.999 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 12:06:17.053 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 12:06:17.055 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 12:06:17.056 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 12:06:25.335 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 12:06:25.336 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 12:06:25.427 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 12:06:25.428 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 12:06:29.531 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 12:06:29.532 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 12:06:32.736 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 12:06:32.739 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 12:06:32.793 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 12:06:32.885 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 12:06:32.886 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 12:06:32.935 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 12:06:32.936 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 12:06:33.810 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 12:06:33.895 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 12:06:33.895 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 12:06:33.951 [main] Log - Reading element from JSON file: completeSignUp
+[INFO ] 2021-07-27 12:06:33.951 [main] Log - Clicking element: completeSignUp
+[ERROR] 2021-07-27 12:06:43.976 [main] Log - Failed to find or click element: completeSignUp
+[INFO ] 2021-07-27 12:06:43.995 [main] Log - Reading element from JSON file: reEnroll
+[INFO ] 2021-07-27 12:06:43.996 [main] Log - Clicking element: reEnroll
+[ERROR] 2021-07-27 12:06:54.006 [main] Log - Failed to find or click element: reEnroll
+[INFO ] 2021-07-27 12:09:10.406 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 12:09:10.414 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 12:09:10.462 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 12:09:10.463 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 12:09:11.254 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 12:09:11.254 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 12:09:12.967 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 12:09:13.033 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 12:09:13.092 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 12:09:13.093 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 12:09:23.149 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 12:09:23.149 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 12:09:23.149 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 12:09:29.910 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 12:09:29.911 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 12:09:29.959 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 12:09:29.960 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 12:09:31.777 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 12:09:31.779 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 12:09:31.817 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 12:09:31.819 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 12:09:31.820 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 12:09:38.549 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 12:09:38.550 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 12:09:38.645 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 12:09:38.646 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 12:09:42.758 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 12:09:42.760 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 12:09:45.963 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 12:09:45.965 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 12:09:46.017 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 12:09:46.119 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 12:09:46.119 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 12:09:46.167 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 12:09:46.167 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 12:09:46.964 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 12:09:47.026 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 12:09:47.026 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 12:09:47.119 [main] Log - Reading element from JSON file: completeSignUp
+[INFO ] 2021-07-27 12:09:47.119 [main] Log - Clicking element: completeSignUp
+[ERROR] 2021-07-27 12:09:57.135 [main] Log - Failed to find or click element: completeSignUp
+[INFO ] 2021-07-27 12:09:57.141 [main] Log - Reading element from JSON file: reEnroll
+[INFO ] 2021-07-27 12:09:57.141 [main] Log - Clicking element: reEnroll
+[ERROR] 2021-07-27 12:09:58.221 [main] Log - Failed to find or click element: reEnroll
+[INFO ] 2021-07-27 15:03:44.842 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 15:03:44.852 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 15:03:44.909 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 15:03:44.910 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 15:03:46.425 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 15:03:46.426 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 15:03:49.539 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 15:03:49.602 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 15:03:49.660 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 15:03:49.660 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 15:03:59.682 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 15:03:59.683 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 15:03:59.683 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 15:04:04.746 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 15:04:04.747 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 15:04:04.802 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 15:04:04.803 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 15:04:06.245 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 15:04:06.246 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 15:04:06.490 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 15:04:06.492 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 15:04:06.493 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 15:04:16.510 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 15:04:16.510 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 15:04:16.511 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 15:04:26.549 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 15:04:26.549 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 15:04:26.549 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 15:04:36.609 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 15:06:00.250 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 15:06:00.264 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 15:06:00.320 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 15:06:00.321 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 15:06:01.226 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 15:06:01.227 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 15:06:02.884 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 15:06:02.951 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 15:06:03.013 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 15:06:03.014 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 15:06:13.068 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 15:06:13.068 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 15:06:13.069 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 15:06:20.663 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 15:06:20.664 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 15:06:20.711 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 15:06:20.711 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 15:06:22.852 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 15:06:22.853 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 15:06:23.330 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 15:06:23.331 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 15:06:23.681 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 15:06:23.682 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 15:06:23.777 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 15:06:23.777 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 15:06:27.861 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 15:06:27.862 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 15:06:30.837 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 15:06:30.840 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 15:06:30.896 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 15:06:30.985 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 15:06:30.985 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 15:06:31.034 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 15:06:31.035 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 15:06:31.861 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 15:06:31.939 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 15:06:31.940 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 15:06:32.005 [main] Log - Reading element from JSON file: completeSignUp
+[INFO ] 2021-07-27 15:06:32.005 [main] Log - Clicking element: completeSignUp
+[ERROR] 2021-07-27 15:06:41.630 [main] Log - Failed to find or click element: completeSignUp
+[INFO ] 2021-07-27 16:43:55.256 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:43:55.265 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 16:43:55.316 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 16:43:55.317 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 16:43:56.160 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 16:43:56.161 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 16:43:58.129 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 16:43:58.207 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 16:43:58.270 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:43:58.271 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 16:44:08.346 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 16:44:08.347 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 16:44:08.347 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 16:44:15.717 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 16:44:15.718 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 16:44:15.782 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 16:44:15.783 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 16:44:17.392 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:44:17.394 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 16:44:17.425 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:44:17.427 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 16:44:17.427 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 16:44:27.473 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 16:44:27.473 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 16:44:27.473 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 16:44:32.609 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 16:44:32.609 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 16:44:32.610 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 16:44:32.612 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 16:44:53.937 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:44:53.948 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 16:44:53.995 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 16:44:53.996 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 16:44:54.815 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 16:44:54.815 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 16:44:56.325 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 16:44:56.398 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 16:44:56.464 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:44:56.465 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 16:45:06.507 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 16:45:06.507 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 16:45:06.508 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 16:45:12.132 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 16:45:12.133 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 16:45:12.212 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 16:45:12.213 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 16:45:13.531 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:45:13.532 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 16:45:13.736 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:45:13.738 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 16:45:13.739 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 16:45:23.817 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 16:45:23.818 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 16:45:23.819 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 16:45:33.842 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 16:45:33.843 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 16:45:33.844 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 16:45:43.851 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 16:45:52.157 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:45:52.165 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 16:45:52.214 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 16:45:52.215 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 16:45:53.095 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 16:45:53.096 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 16:45:55.976 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 16:45:56.051 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 16:45:56.109 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:45:56.110 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 16:46:06.129 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 16:46:06.129 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 16:46:06.130 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 16:46:12.792 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 16:46:12.793 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 16:46:12.841 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 16:46:12.842 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 16:46:14.341 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:46:14.343 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 16:46:14.438 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:46:14.440 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 16:46:14.441 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 16:46:24.464 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 16:46:24.464 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 16:46:24.464 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 16:46:34.527 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 16:46:34.528 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 16:46:34.529 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 16:46:44.558 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 16:47:21.024 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:47:21.032 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 16:47:21.080 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 16:47:21.081 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 16:47:21.942 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 16:47:21.942 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 16:47:25.861 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 16:47:25.929 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 16:47:25.989 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:47:25.990 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 16:47:36.054 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 16:47:36.054 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 16:47:36.054 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 16:47:42.188 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 16:47:42.189 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 16:47:42.238 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 16:47:42.239 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 16:47:43.797 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:47:43.799 [main] Log - Clicking element: androidEnterpriseBinding
+[ERROR] 2021-07-27 16:47:43.994 [main] Log - Failed to find or click element: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:47:43.997 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 16:47:43.998 [main] Log - Clicking element: addGoogleDomain
+[ERROR] 2021-07-27 16:47:54.011 [main] Log - Failed to find or click element: addGoogleDomain
+[INFO ] 2021-07-27 16:47:54.011 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 16:47:54.011 [main] Log - Clicking element: managedEnterprise
+[ERROR] 2021-07-27 16:48:04.085 [main] Log - Failed to find or click element: managedEnterprise
+[INFO ] 2021-07-27 16:48:04.085 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 16:48:04.086 [main] Log - Clicking element: meOKBtn
+[ERROR] 2021-07-27 16:48:14.120 [main] Log - Failed to find or click element: meOKBtn
+[INFO ] 2021-07-27 16:51:46.085 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:51:46.093 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-27 16:51:46.140 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-27 16:51:46.141 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-27 16:51:47.221 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-27 16:51:47.222 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-27 16:51:49.182 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-27 16:51:49.248 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-27 16:51:49.310 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-27 16:51:49.310 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-27 16:51:59.338 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-27 16:51:59.338 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-27 16:51:59.339 [main] Log - Clicking element: login
+[INFO ] 2021-07-27 16:52:06.371 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-27 16:52:06.371 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-27 16:52:06.418 [main] Log - Reading element from JSON file: globalSettings
+[INFO ] 2021-07-27 16:52:06.419 [main] Log - Clicking element: globalSettings
+[INFO ] 2021-07-27 16:52:08.349 [main] Log - Reading element from JSON file: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:52:08.349 [main] Log - Clicking element: androidEnterpriseBinding
+[INFO ] 2021-07-27 16:52:08.483 [main] Log - Reading element from JSON file: addGoogleDomain
+[INFO ] 2021-07-27 16:52:08.483 [main] Log - Clicking element: addGoogleDomain
+[INFO ] 2021-07-27 16:52:08.772 [main] Log - Reading element from JSON file: managedEnterprise
+[INFO ] 2021-07-27 16:52:08.773 [main] Log - Clicking element: managedEnterprise
+[INFO ] 2021-07-27 16:52:08.862 [main] Log - Reading element from JSON file: meOKBtn
+[INFO ] 2021-07-27 16:52:08.863 [main] Log - Clicking element: meOKBtn
+[INFO ] 2021-07-27 16:52:12.977 [main] Log - Reading element from JSON file: signIN
+[INFO ] 2021-07-27 16:52:12.978 [main] Log - Clicking element: signIN
+[INFO ] 2021-07-27 16:52:15.997 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 16:52:16.000 [main] Log - Clicking element: googleUName
+[INFO ] 2021-07-27 16:52:16.052 [main] Log - Reading element from JSON file: googleUName
+[INFO ] 2021-07-27 16:52:16.145 [main] Log - Reading element from JSON file: googleNext1
+[INFO ] 2021-07-27 16:52:16.146 [main] Log - Clicking element: googleNext1
+[INFO ] 2021-07-27 16:52:16.193 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 16:52:16.194 [main] Log - Clicking element: googlePass
+[INFO ] 2021-07-27 16:52:17.112 [main] Log - Reading element from JSON file: googlePass
+[INFO ] 2021-07-27 16:52:17.177 [main] Log - Reading element from JSON file: googleNext2
+[INFO ] 2021-07-27 16:52:17.178 [main] Log - Clicking element: googleNext2
+[INFO ] 2021-07-27 16:52:17.248 [main] Log - Reading element from JSON file: getStarted
+[INFO ] 2021-07-27 16:52:17.249 [main] Log - Clicking element: getStarted
+[ERROR] 2021-07-27 16:52:27.257 [main] Log - Failed to find or click element: getStarted
+[INFO ] 2021-07-27 16:52:27.257 [main] Log - Reading element from JSON file: businessName
+[INFO ] 2021-07-27 16:52:27.258 [main] Log - Clicking element: businessName
+[ERROR] 2021-07-27 16:52:37.301 [main] Log - Failed to find or click element: businessName
+[INFO ] 2021-07-27 16:52:37.301 [main] Log - Reading element from JSON file: businessName
+[ERROR] 2021-07-27 16:52:47.327 [main] Log - Failed to find or click element: businessName

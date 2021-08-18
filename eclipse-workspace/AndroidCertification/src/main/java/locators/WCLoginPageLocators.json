@@ -1,0 +1,34 @@
+{	
+		"detailBtn":{
+		"findBy":"xpath",
+		"locator":"//*[@id=\"details-button\"]",
+		},
+	
+		"proceedBtn":{
+		"findBy":"xpath",
+		"locator":"//*[@id=\"proceed-link\"]",
+		},
+	
+		"exactURL":{
+		"findBy":"xpath",
+		"locator":"//a[contains(text(), \"https://qa2016-9519.sotiqa.com/MobiControl/WebConsole\")]",
+		},
+		
+		"userName":{
+		"findBy":"xpath",
+		"locator":"//input[@placeholder = \"Username\"]",
+		},
+		
+		"password":{
+		"findBy":"xpath",
+		"locator":"//input[@placeholder= \"Password\"]",
+		},
+		
+		"login":{
+		"findBy":"xpath",
+		"locator":"//button[contains(text(),\"Log In\")]",
+		},
+	
+}
+
+	

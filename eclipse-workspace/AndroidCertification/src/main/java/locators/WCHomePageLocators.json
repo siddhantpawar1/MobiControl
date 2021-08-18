@@ -1,0 +1,35 @@
+{
+	"hamburgerProfile":{
+		"findBy":"xpath",
+		"locator":"//span[@class=\"hamburger-box\"]",
+	},
+	
+	"globalSettings":{
+		"findBy":"xpath",
+		"locator":"//a[contains(text(), \"Global Settings\")]",
+	},
+	
+	"rules":{
+		"findBy":"xpath",
+		"locator":"//a[contains(text(), \"Rules\")]",
+	},
+	"Profile":{
+		"findBy":"xpath",
+		"locator":"//soti-dropdown-node[contains(text(),\"Profiles\")]",
+	},
+	"newProfile":{
+		"findBy":"xpath",
+		"locator":"//div[@title=\"New Profile\"]",
+	},
+	"androidPlus":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(), \"Android Plus\") and @class=\"platform-description\"]",
+	},
+	
+	"Notification":{
+		"findBy":"xpath",
+		"locator":"//i[@class=\"ngui-icon-megaphone round medium\"]",
+	},
+	
+		
+}

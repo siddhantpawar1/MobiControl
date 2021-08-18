@@ -1,0 +1,102 @@
+{
+	"hamburgerProfile":{
+		"findBy":"xpath",
+		"locator":"//span[@class=\"hamburger-box\"]",
+	},
+	
+	"globalSettings":{
+		"findBy":"xpath",
+		"locator":"//a[contains(text(), \"Global Settings\")]",
+	},
+	
+	"androidEnterpriseBinding":{
+		"findBy":"xpath",
+		"locator":"//div[contains(text(),\"Android Enterprise Bindings\")]/following::td[2]/div",
+	},
+	
+	"addGoogleDomain":{
+		"findBy":"xpath",
+		"locator":"//em[@class=\"x-btn-arrow\" and @unselectable=\"on\"]",
+	},
+	
+	"managedEnterprise":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(), \"Managed Enterprise\") and @class=\"x-menu-item-text\"]",
+	},
+	
+	"meOKBtn":{
+		"findBy":"xpath",
+		"locator":"//button[contains(text(), \"OK\") and @class=\" x-btn-text\"]",
+	},
+	
+	"signIN":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(), \"Sign in\") and @class=\"RveJvd snByac\"]",
+	},
+	
+	"googleUName":{
+		"findBy":"xpath",
+		"locator":"//input[@type=\"email\" and @autocomplete=\"username\"]",
+	},
+	
+	"googleNext1":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(), \"Next\")]",
+	},
+	
+	"googlePass":{
+		"findBy":"xpath",
+		"locator":"//input[@type=\"password\" and @jsname=\"YPqjbf\"]",
+	},
+	
+	"googleNext2":{
+		"findBy":"xpath",
+		"locator":"//*[@id=\"passwordNext\"]/div/button/span",
+	},
+	
+	"completeSignUp":{
+		"findBy":"xpath",
+		"locator":"//a[@class=\"P9FNEf\"]",
+	},
+	
+	"notNow":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(), \"Not now\")]",
+	},
+	
+	
+	"reEnroll":{
+		"findBy":"xpath",
+		"locator":"//a[contains(text(),\"Re-enroll\")]",
+	},
+	
+	"getStarted":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(), \"Get started\")]",
+	},
+	
+	"businessName":{
+		"findBy":"xpath",
+		"locator":"//input[@id=\"i3\"]",
+	},
+	
+	"googleNext":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(), \"Next\")",
+	},
+	
+	"googleCheckBx":{
+		"findBy":"xpath",
+		"locator":"//input[@name=\"checky\"]",
+	},
+	
+	"googleconfirmButn":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(),\"Confirm\")]",
+	},
+	
+	"completeRegistration":{
+		"findBy":"xpath",
+		"locator":"//span[contains(text(),\"Complete Registration\")]",
+	},
+}

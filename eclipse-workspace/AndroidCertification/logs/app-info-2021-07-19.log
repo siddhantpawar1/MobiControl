@@ -1,0 +1,104 @@
+[INFO ] 2021-07-19 11:31:56.622 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-19 11:31:56.637 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-19 11:31:56.689 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-19 11:31:56.690 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-19 11:31:57.506 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-19 11:31:57.507 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-19 11:32:01.986 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-19 11:32:02.060 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-19 11:32:02.123 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-19 11:32:02.124 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-19 11:32:12.161 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-19 11:32:12.161 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-19 11:32:12.162 [main] Log - Clicking element: login
+[INFO ] 2021-07-19 11:32:16.521 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-19 11:32:16.523 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-19 11:32:16.572 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-07-19 11:32:16.574 [main] Log - Clicking element: rules
+[INFO ] 2021-07-19 11:32:23.626 [main] Log - Reading element from JSON file: createAddDevice
+[INFO ] 2021-07-19 11:32:23.629 [main] Log - Clicking element: createAddDevice
+[INFO ] 2021-07-19 11:32:28.697 [main] Log - Reading element from JSON file: entercleanName
+[INFO ] 2021-07-19 11:32:28.698 [main] Log - Clicking element: entercleanName
+[INFO ] 2021-07-19 11:32:28.776 [main] Log - Reading element from JSON file: entercleanName
+[INFO ] 2021-07-19 11:32:28.820 [main] Log - Reading element from JSON file: Next1
+[INFO ] 2021-07-19 11:32:28.821 [main] Log - Clicking element: Next1
+[INFO ] 2021-07-19 11:32:28.902 [main] Log - Reading element from JSON file: Next2
+[INFO ] 2021-07-19 11:32:28.903 [main] Log - Clicking element: Next2
+[ERROR] 2021-07-19 11:32:38.909 [main] Log - Failed to find or click element: Next2
+[INFO ] 2021-07-19 11:32:38.909 [main] Log - Reading element from JSON file: Folder
+[INFO ] 2021-07-19 11:32:38.910 [main] Log - Clicking element: Folder
+[ERROR] 2021-07-19 11:32:48.960 [main] Log - Failed to find or click element: Folder
+[INFO ] 2021-07-19 11:32:48.961 [main] Log - Reading element from JSON file: Next3
+[INFO ] 2021-07-19 11:32:48.962 [main] Log - Clicking element: Next3
+[ERROR] 2021-07-19 11:32:58.976 [main] Log - Failed to find or click element: Next3
+[INFO ] 2021-07-19 11:32:58.976 [main] Log - Reading element from JSON file: Next4
+[INFO ] 2021-07-19 11:32:58.976 [main] Log - Clicking element: Next4
+[ERROR] 2021-07-19 11:33:08.993 [main] Log - Failed to find or click element: Next4
+[INFO ] 2021-07-19 11:33:08.993 [main] Log - Reading element from JSON file: radioButton
+[INFO ] 2021-07-19 11:33:08.994 [main] Log - Clicking element: radioButton
+[ERROR] 2021-07-19 11:33:19.037 [main] Log - Failed to find or click element: radioButton
+[INFO ] 2021-07-19 11:33:19.037 [main] Log - Reading element from JSON file: Next5
+[INFO ] 2021-07-19 11:33:19.038 [main] Log - Clicking element: Next5
+[INFO ] 2021-07-19 11:33:19.991 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-19 11:33:20.005 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-07-19 11:33:20.060 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-07-19 11:33:20.061 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-07-19 11:33:20.833 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-07-19 11:33:20.835 [main] Log - Clicking element: exactURL
+[INFO ] 2021-07-19 11:33:22.241 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-07-19 11:33:22.310 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-07-19 11:33:22.372 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-07-19 11:33:22.373 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-07-19 11:33:29.100 [main] Log - Failed to find or click element: Next5
+[INFO ] 2021-07-19 11:33:29.100 [main] Log - Reading element from JSON file: Skip
+[INFO ] 2021-07-19 11:33:29.101 [main] Log - Clicking element: Skip
+[ERROR] 2021-07-19 11:33:32.391 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-07-19 11:33:32.391 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-07-19 11:33:32.391 [main] Log - Clicking element: login
+[INFO ] 2021-07-19 11:33:37.080 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-07-19 11:33:37.081 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-07-19 11:33:37.129 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-07-19 11:33:37.130 [main] Log - Clicking element: rules
+[ERROR] 2021-07-19 11:33:39.125 [main] Log - Failed to find or click element: Skip
+[INFO ] 2021-07-19 11:33:39.126 [main] Log - Reading element from JSON file: Next6
+[INFO ] 2021-07-19 11:33:39.127 [main] Log - Clicking element: Next6
+[INFO ] 2021-07-19 11:33:44.421 [main] Log - Reading element from JSON file: createAddDevice
+[INFO ] 2021-07-19 11:33:44.422 [main] Log - Clicking element: createAddDevice
+[ERROR] 2021-07-19 11:33:49.189 [main] Log - Failed to find or click element: Next6
+[INFO ] 2021-07-19 11:33:49.189 [main] Log - Reading element from JSON file: Next7
+[INFO ] 2021-07-19 11:33:49.190 [main] Log - Clicking element: Next7
+[INFO ] 2021-07-19 11:33:49.489 [main] Log - Reading element from JSON file: entercleanName
+[INFO ] 2021-07-19 11:33:49.491 [main] Log - Clicking element: entercleanName
+[INFO ] 2021-07-19 11:33:49.567 [main] Log - Reading element from JSON file: entercleanName
+[INFO ] 2021-07-19 11:33:49.613 [main] Log - Reading element from JSON file: Next1
+[INFO ] 2021-07-19 11:33:49.614 [main] Log - Clicking element: Next1
+[INFO ] 2021-07-19 11:33:49.694 [main] Log - Reading element from JSON file: Next2
+[INFO ] 2021-07-19 11:33:49.695 [main] Log - Clicking element: Next2
+[INFO ] 2021-07-19 11:33:49.897 [main] Log - Reading element from JSON file: Folder
+[INFO ] 2021-07-19 11:33:49.898 [main] Log - Clicking element: Folder
+[INFO ] 2021-07-19 11:33:50.231 [main] Log - Reading element from JSON file: Next3
+[INFO ] 2021-07-19 11:33:50.231 [main] Log - Clicking element: Next3
+[INFO ] 2021-07-19 11:33:50.330 [main] Log - Reading element from JSON file: Next4
+[INFO ] 2021-07-19 11:33:50.331 [main] Log - Clicking element: Next4
+[INFO ] 2021-07-19 11:33:50.514 [main] Log - Reading element from JSON file: radioButton
+[INFO ] 2021-07-19 11:33:50.516 [main] Log - Clicking element: radioButton
+[ERROR] 2021-07-19 11:33:59.250 [main] Log - Failed to find or click element: Next7
+[INFO ] 2021-07-19 11:33:59.250 [main] Log - Reading element from JSON file: Next8
+[INFO ] 2021-07-19 11:33:59.250 [main] Log - Clicking element: Next8
+[ERROR] 2021-07-19 11:34:00.572 [main] Log - Failed to find or click element: radioButton
+[INFO ] 2021-07-19 11:34:00.572 [main] Log - Reading element from JSON file: Next5
+[INFO ] 2021-07-19 11:34:00.572 [main] Log - Clicking element: Next5
+[INFO ] 2021-07-19 11:34:00.657 [main] Log - Reading element from JSON file: Skip
+[INFO ] 2021-07-19 11:34:00.658 [main] Log - Clicking element: Skip
+[INFO ] 2021-07-19 11:34:00.745 [main] Log - Reading element from JSON file: Next6
+[INFO ] 2021-07-19 11:34:00.746 [main] Log - Clicking element: Next6
+[INFO ] 2021-07-19 11:34:00.870 [main] Log - Reading element from JSON file: Next7
+[INFO ] 2021-07-19 11:34:00.871 [main] Log - Clicking element: Next7
+[INFO ] 2021-07-19 11:34:00.978 [main] Log - Reading element from JSON file: Next8
+[INFO ] 2021-07-19 11:34:00.979 [main] Log - Clicking element: Next8
+[INFO ] 2021-07-19 11:34:01.148 [main] Log - Reading element from JSON file: Finish
+[INFO ] 2021-07-19 11:34:01.149 [main] Log - Clicking element: Finish
+[ERROR] 2021-07-19 11:34:09.267 [main] Log - Failed to find or click element: Next8
+[INFO ] 2021-07-19 11:34:09.268 [main] Log - Reading element from JSON file: Finish
+[INFO ] 2021-07-19 11:34:09.269 [main] Log - Clicking element: Finish
+[ERROR] 2021-07-19 11:34:19.330 [main] Log - Failed to find or click element: Finish

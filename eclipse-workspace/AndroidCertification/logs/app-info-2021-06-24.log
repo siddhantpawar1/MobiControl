@@ -1,0 +1,637 @@
+[ERROR] 2021-06-24 16:33:11.858 [main] Log - Failed to find or click element: userName
+[ERROR] 2021-06-24 17:13:26.818 [main] Log - Failed to find or click element: userName
+[ERROR] 2021-06-24 17:14:00.192 [main] Log - Failed to find or click element: userName
+[ERROR] 2021-06-24 17:14:15.066 [main] Log - Failed to find or click element: userName
+[ERROR] 2021-06-24 17:25:09.784 [main] Log - Failed to find or click element: userName
+[ERROR] 2021-06-24 19:02:13.095 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 19:30:26.926 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 19:30:26.936 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 19:30:26.956 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 19:30:26.956 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 19:30:26.957 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 19:30:26.970 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 19:30:26.970 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 19:30:26.971 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 19:30:36.985 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 19:30:47.048 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 19:31:30.025 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 19:31:30.032 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 19:31:30.055 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 19:31:30.055 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 19:31:30.055 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 19:31:30.070 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 19:31:30.070 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 19:31:30.070 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 19:31:40.139 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 19:31:50.177 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 19:35:46.158 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 19:35:46.166 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 19:35:46.186 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 19:35:46.186 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 19:35:46.187 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 19:35:46.201 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 19:35:46.201 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 19:35:46.201 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 19:35:56.256 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 19:36:06.267 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 19:36:56.657 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 19:36:56.665 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 19:36:56.694 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 19:36:56.694 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 19:36:56.695 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 19:36:56.708 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 19:36:56.708 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 19:36:56.709 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 19:37:06.771 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 19:37:16.814 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 19:49:41.675 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 19:49:41.683 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 19:49:41.705 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 19:49:41.705 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 19:49:41.706 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 19:49:41.721 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 19:49:41.722 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 19:49:41.722 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 19:49:51.770 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 19:50:01.821 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 19:51:25.866 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 19:51:25.873 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 19:51:25.893 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 19:51:25.894 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 19:51:25.894 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 19:51:25.908 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 19:51:25.908 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 19:51:25.909 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 19:51:35.943 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 19:51:48.574 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 19:55:37.872 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 19:55:37.879 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 19:55:37.898 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 19:55:37.899 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 19:55:37.899 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 19:55:37.912 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 19:55:37.912 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 19:55:37.913 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 19:55:47.955 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 19:55:58.013 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 19:58:06.568 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 19:58:06.578 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 19:58:06.601 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 19:58:06.601 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 19:58:06.601 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 19:58:06.617 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 19:58:06.617 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 19:58:06.617 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 19:58:16.679 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 19:58:26.706 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 20:02:03.273 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:02:03.282 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 20:02:03.302 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 20:02:03.303 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 20:02:03.303 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 20:02:03.315 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 20:02:03.315 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 20:02:03.316 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 20:02:13.356 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 20:02:23.371 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 20:07:21.780 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:07:21.788 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 20:07:21.810 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 20:07:21.810 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 20:07:21.810 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 20:07:21.824 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 20:07:21.824 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 20:07:21.824 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 20:07:31.851 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 20:07:41.926 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 20:17:03.213 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:17:17.693 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 20:17:18.003 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 20:18:04.309 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 20:19:36.016 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 20:19:36.199 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 20:21:00.586 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 20:21:08.198 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 20:22:45.321 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 20:22:57.244 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 20:24:25.596 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:24:57.330 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 20:32:03.141 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:32:08.975 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 20:33:01.649 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:33:11.384 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 20:35:38.113 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:38:29.183 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:38:29.190 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 20:38:29.233 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 20:38:29.233 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 20:38:30.016 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 20:38:30.016 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 20:38:35.192 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:38:35.193 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 20:38:45.229 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 20:38:45.229 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 20:38:45.229 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 20:49:50.421 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:49:50.427 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 20:49:50.471 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 20:49:50.472 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 20:49:51.288 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 20:49:51.289 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 20:49:54.603 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:49:54.603 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 20:50:04.659 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 20:50:04.660 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 20:50:04.660 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 20:51:49.375 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:51:49.382 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 20:51:49.426 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 20:51:49.426 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 20:51:50.320 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 20:51:50.320 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 20:51:52.837 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:51:52.838 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 20:52:02.864 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 20:52:02.865 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 20:52:02.865 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 20:52:35.646 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:52:35.653 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 20:52:35.696 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 20:52:35.697 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 20:52:36.464 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 20:52:36.465 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 20:52:40.806 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 20:52:40.807 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 20:52:50.858 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 20:52:50.858 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 20:52:50.858 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 21:23:35.817 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:23:35.827 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 21:23:35.830 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 21:23:35.830 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 21:23:35.830 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 21:23:35.830 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 21:23:35.830 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 21:23:35.831 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 21:23:35.831 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 21:23:35.831 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 21:29:54.533 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:29:54.542 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 21:29:54.594 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 21:29:54.594 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 21:29:55.786 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 21:29:55.787 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 21:29:59.637 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:29:59.637 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 21:30:09.695 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 21:30:09.695 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 21:30:09.696 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 21:33:23.649 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:33:24.722 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 21:33:25.742 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 21:33:26.672 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 21:33:29.207 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 21:33:30.038 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 21:33:36.271 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:33:37.599 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 21:40:35.579 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:40:35.586 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 21:40:35.588 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 21:40:35.589 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 21:40:35.589 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 21:40:35.589 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 21:40:35.589 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 21:40:35.590 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 21:40:35.590 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 21:40:35.591 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 21:42:33.375 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:42:33.382 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 21:42:33.384 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 21:42:33.384 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 21:42:33.385 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 21:42:33.385 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 21:42:33.385 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 21:42:33.385 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 21:42:33.385 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 21:42:33.386 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 21:46:06.151 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:46:06.158 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 21:46:06.161 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 21:46:06.161 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 21:46:06.161 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 21:46:06.161 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 21:46:06.162 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 21:46:06.162 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 21:46:06.162 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 21:46:06.162 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 21:50:24.388 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:50:24.396 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 21:50:24.451 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 21:50:24.452 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 21:50:25.590 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 21:50:25.591 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 21:50:28.032 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 21:50:28.033 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 21:50:38.068 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 21:50:38.068 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 21:50:38.069 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 22:00:01.696 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:00:01.705 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:00:01.708 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:00:01.709 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:00:01.709 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:00:01.709 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:00:01.709 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:00:01.710 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:00:01.710 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:00:01.710 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:01:30.313 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:01:30.320 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:01:30.322 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:01:30.322 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:01:30.323 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:01:30.323 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:01:30.323 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:01:30.323 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:01:30.323 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:01:30.324 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:03:16.507 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:03:16.519 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 22:03:16.574 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:03:16.575 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 22:03:17.574 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:03:17.575 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 22:03:21.720 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:03:21.722 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:03:31.779 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:03:31.779 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 22:03:31.780 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 22:07:36.559 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:07:36.565 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:07:36.568 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:07:36.568 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:07:36.568 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:07:36.568 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:07:36.568 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:07:36.569 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:07:36.569 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:07:36.569 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:10:29.257 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:10:29.263 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:10:29.266 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:10:29.266 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:10:29.266 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:10:29.266 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:10:29.266 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:10:29.267 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:10:29.267 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:10:29.267 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:11:08.986 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:11:08.993 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:11:08.996 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:11:08.996 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:11:08.996 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:11:08.996 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:11:08.997 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:11:08.997 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:11:08.997 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:11:08.997 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:20:38.462 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:20:38.469 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:20:38.472 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:20:38.473 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:20:38.473 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:20:38.473 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:20:38.473 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:20:38.473 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:20:38.473 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:20:38.473 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:21:17.320 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:21:17.327 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:21:17.329 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:21:17.329 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:21:17.330 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:21:17.330 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:21:17.330 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:21:17.330 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:21:17.330 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:21:17.331 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:23:38.692 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:23:38.699 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:23:38.701 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:23:38.701 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:23:38.702 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:23:38.702 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:23:38.702 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:23:38.702 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:23:38.702 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:23:38.703 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:23:51.289 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:23:51.297 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 22:23:51.361 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:23:51.362 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 22:23:52.312 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:23:52.313 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 22:23:55.918 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:23:55.919 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:24:05.938 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:24:05.938 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 22:24:05.938 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 22:25:46.020 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:25:46.026 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:25:46.028 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:25:46.029 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:25:46.029 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:25:46.029 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:25:46.029 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:25:46.030 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:25:46.030 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:25:46.030 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:25:54.584 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:25:54.591 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:25:54.594 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:25:54.594 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:25:54.594 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:25:54.594 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:25:54.594 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:25:54.595 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:25:54.595 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:25:54.595 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:32:20.945 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:32:20.953 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:32:20.956 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:32:20.956 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:32:20.957 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:32:20.957 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:32:20.957 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:32:20.957 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:32:20.957 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:32:20.958 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:32:51.673 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:32:51.680 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:32:51.683 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:32:51.683 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:32:51.683 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:32:51.683 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:32:51.683 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:32:51.684 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:32:51.684 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:32:51.684 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:33:31.767 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:33:31.774 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 22:33:31.821 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:33:31.822 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 22:33:32.750 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:33:32.750 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 22:33:36.807 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:33:36.807 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:33:46.852 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:33:46.852 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 22:33:46.853 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 22:40:55.449 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:40:55.455 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:40:55.458 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:40:55.458 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:40:55.458 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:40:55.458 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:40:55.458 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:40:55.459 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:40:55.459 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:40:55.459 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:41:19.169 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:41:19.175 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:41:19.178 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:41:19.178 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:41:19.178 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:41:19.179 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:41:19.179 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:41:19.179 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:41:19.179 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:41:19.180 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:42:40.206 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:42:51.079 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:43:03.211 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:51:23.083 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:51:23.090 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:51:23.093 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:51:23.093 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:51:23.093 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:51:23.094 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:51:23.094 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:51:23.094 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:51:23.094 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:51:23.095 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 22:57:41.955 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 22:57:41.962 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 22:57:41.964 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 22:57:41.964 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 22:57:41.965 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 22:57:41.965 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 22:57:41.965 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 22:57:41.966 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 22:57:41.966 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 22:57:41.966 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:11:23.758 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:11:23.765 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 23:11:23.811 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:11:23.812 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 23:11:26.001 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:11:26.001 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 23:11:34.646 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:11:34.647 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:11:44.685 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:11:44.685 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 23:11:44.686 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 23:12:39.628 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:12:39.634 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:12:39.637 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:12:39.637 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:12:39.637 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:12:39.638 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:12:39.638 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:12:39.638 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:12:39.638 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:12:39.638 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:15:19.327 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:15:19.334 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:15:19.336 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:15:19.336 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:15:19.337 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:15:19.337 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:15:19.337 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:15:19.337 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:15:19.337 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:15:19.338 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:15:54.204 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:15:54.210 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:15:54.213 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:15:54.213 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:15:54.214 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:15:54.214 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:15:54.214 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:15:54.214 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:15:54.214 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:15:54.215 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:16:09.486 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:16:09.493 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:16:09.496 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:16:09.496 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:16:09.496 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:16:09.496 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:16:09.496 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:16:09.497 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:16:09.497 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:16:09.497 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:17:10.607 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:17:10.613 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:17:10.616 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:17:10.616 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:17:10.616 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:17:10.617 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:17:10.617 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:17:10.617 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:17:10.617 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:17:10.618 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:20:20.994 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:20:21.000 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:20:21.002 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:20:21.003 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:20:21.003 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:20:21.003 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:20:21.003 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:20:21.004 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:20:21.004 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:20:21.004 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:21:24.989 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:21:24.995 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:21:24.998 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:21:24.998 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:21:24.998 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:21:24.998 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:21:24.998 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:21:24.999 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:21:24.999 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:21:24.999 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:23:12.210 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:23:12.217 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 23:23:12.266 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:23:12.267 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 23:23:13.462 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:23:13.462 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 23:23:20.577 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:23:20.578 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:23:32.176 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:23:32.176 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 23:23:32.176 [main] Log - Clicking element: login
+[ERROR] 2021-06-24 23:23:44.375 [main] Log - Failed to find or click element: login
+[INFO ] 2021-06-24 23:28:42.444 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:28:42.451 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:28:42.453 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:28:42.453 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:28:42.454 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:28:42.454 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:28:42.454 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:28:42.454 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:28:42.454 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:28:42.455 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:30:37.637 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:30:37.645 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:30:37.648 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:30:37.648 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:30:37.648 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:30:37.649 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:30:37.649 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:30:37.649 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:30:37.649 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:30:37.650 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:43:37.708 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:43:37.715 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:43:37.717 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:43:37.717 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:43:37.718 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:43:37.718 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:43:37.718 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:43:37.718 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:43:37.718 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:43:37.719 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:43:58.417 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:43:58.424 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:43:58.426 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:43:58.426 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:43:58.427 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:43:58.427 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:43:58.427 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:43:58.427 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:43:58.427 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:43:58.428 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:44:09.320 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:44:09.326 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:44:09.328 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:44:09.328 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:44:09.329 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:44:09.329 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:44:09.329 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:44:09.330 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:44:09.330 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:44:09.330 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:44:09.335 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:44:09.335 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:44:09.335 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:44:09.335 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:44:09.336 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:44:09.336 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:44:09.336 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:44:09.336 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:44:09.336 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:44:09.337 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:44:09.339 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:44:09.340 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:44:09.340 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:44:09.340 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:44:09.340 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:44:09.340 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:44:09.341 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:44:09.341 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:44:09.341 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:44:09.341 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:44:09.344 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:44:09.344 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:44:09.345 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:44:09.345 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:44:09.345 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:44:09.345 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:44:09.345 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:44:09.346 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:44:09.346 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:44:09.346 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:44:09.348 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:44:09.349 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:44:09.349 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:44:09.349 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:44:09.350 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:44:09.350 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:44:09.350 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:44:09.351 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:44:09.351 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:44:09.351 [main] Log - Failed to find or click element: userName
+[INFO ] 2021-06-24 23:48:36.802 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:48:36.808 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-24 23:48:36.857 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:48:36.858 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-24 23:48:37.808 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:48:37.809 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-24 23:48:40.702 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:48:40.702 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:48:50.785 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:48:50.786 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-24 23:48:50.787 [main] Log - Clicking element: login
+[INFO ] 2021-06-24 23:49:42.118 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-24 23:49:42.124 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-24 23:49:42.127 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-24 23:49:42.127 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-24 23:49:42.127 [main] Log - Clicking element: proceedBtn
+[ERROR] 2021-06-24 23:49:42.127 [main] Log - Failed to find or click element: proceedBtn
+[INFO ] 2021-06-24 23:49:42.127 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-24 23:49:42.128 [main] Log - Clicking element: exactURL
+[ERROR] 2021-06-24 23:49:42.128 [main] Log - Failed to find or click element: exactURL
+[ERROR] 2021-06-24 23:49:42.128 [main] Log - Failed to find or click element: userName

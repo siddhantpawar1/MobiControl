@@ -1,0 +1,13 @@
+[INFO ] 2021-08-13 14:38:15.415 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-08-13 14:38:15.435 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-08-13 14:38:15.491 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-08-13 14:38:15.493 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-08-13 14:38:16.955 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-08-13 14:38:16.956 [main] Log - Clicking element: exactURL
+[INFO ] 2021-08-13 14:38:22.063 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-08-13 14:38:22.149 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-08-13 14:38:22.228 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-08-13 14:38:22.231 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-08-13 14:38:32.266 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-08-13 14:38:32.266 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-08-13 14:38:32.267 [main] Log - Clicking element: login

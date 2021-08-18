@@ -1,0 +1,379 @@
+[INFO ] 2021-06-28 09:16:34.737 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 09:16:34.753 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 09:16:34.808 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 09:16:34.808 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 09:16:36.091 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 09:16:36.091 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 09:16:41.684 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 09:16:42.215 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 09:16:42.275 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 09:16:42.276 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 09:16:52.353 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 09:16:52.354 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 09:16:52.355 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 09:16:58.034 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 09:16:58.035 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 09:16:58.082 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 09:16:58.082 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 09:21:38.579 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 09:21:38.587 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 09:21:38.637 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 09:21:38.638 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 09:21:39.406 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 09:21:39.406 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 09:21:42.902 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 09:21:42.985 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 09:21:43.052 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 09:21:43.054 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 09:21:53.088 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 09:21:53.088 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 09:21:53.089 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 09:21:58.139 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 09:21:58.140 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 09:21:58.200 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 09:21:58.201 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 12:46:30.534 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 12:46:30.547 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 12:46:30.601 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 12:46:30.602 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 12:46:31.357 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 12:46:31.360 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 12:46:34.799 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 12:46:34.894 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 12:46:34.951 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 12:46:34.952 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 12:46:44.993 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 12:46:44.993 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 12:46:44.994 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 12:46:50.003 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 12:46:50.004 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 12:46:50.051 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 12:46:50.052 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 12:47:30.189 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 12:47:30.198 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 12:47:30.251 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 12:47:30.252 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 12:47:31.036 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 12:47:31.037 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 12:47:32.769 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 12:47:32.843 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 12:47:32.900 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 12:47:32.900 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 12:47:42.970 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 12:47:42.970 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 12:47:42.971 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 12:47:47.540 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 12:47:47.541 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 12:47:47.592 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 12:47:47.593 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:05:51.663 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:05:51.674 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:05:51.743 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:05:51.744 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:05:52.638 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:05:52.640 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:05:56.010 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:05:56.086 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:05:56.145 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:05:56.146 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:06:06.189 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:06:06.189 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:06:06.190 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:06:11.513 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:06:11.514 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:06:11.559 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:06:11.560 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:07:09.453 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:07:09.461 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:07:09.508 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:07:09.509 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:07:10.346 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:07:10.347 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:07:13.682 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:07:13.742 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:07:13.804 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:07:13.805 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:07:23.849 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:07:23.849 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:07:23.850 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:07:28.934 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:07:28.935 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:07:28.984 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:07:28.985 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:08:05.504 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:08:05.512 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:08:05.559 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:08:05.560 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:08:06.266 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:08:06.267 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:08:08.531 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:08:08.595 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:08:08.653 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:08:08.654 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:08:18.682 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:08:18.683 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:08:18.683 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:08:23.474 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:08:23.475 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:08:23.521 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:08:23.522 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:09:10.009 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:09:10.019 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:09:10.067 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:09:10.068 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:09:10.869 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:09:10.870 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:09:13.772 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:09:13.833 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:09:13.897 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:09:13.898 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:09:23.941 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:09:23.942 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:09:23.942 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:09:28.810 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:09:28.811 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:09:28.858 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:09:28.859 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:09:58.019 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:09:58.028 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:09:58.074 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:09:58.075 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:09:58.861 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:09:58.862 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:10:00.953 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:10:01.015 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:10:01.078 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:10:01.079 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:10:11.140 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:10:11.140 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:10:11.141 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:10:16.685 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:10:16.686 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:10:16.733 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:10:16.733 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:13:44.152 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:13:44.161 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:13:44.212 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:13:44.213 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:13:45.063 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:13:45.064 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:13:46.751 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:13:46.825 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:13:46.890 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:13:46.891 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:13:56.959 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:13:56.959 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:13:56.960 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:14:02.531 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:14:02.531 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:14:02.577 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:14:02.578 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:14:51.948 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:14:51.957 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:14:52.005 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:14:52.006 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:14:52.798 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:14:52.799 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:14:56.895 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:14:56.961 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:14:57.019 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:14:57.020 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:15:07.060 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:15:07.060 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:15:07.061 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:15:12.868 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:15:12.869 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:15:12.915 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:15:12.916 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:15:47.555 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:15:47.563 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:15:47.612 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:15:47.613 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:15:48.446 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:15:48.447 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:15:51.359 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:15:51.419 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:15:51.479 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:15:51.481 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:16:01.539 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:16:01.539 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:16:01.540 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:16:05.791 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:16:05.791 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:16:05.838 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:16:05.839 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:16:33.191 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:16:33.199 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:16:33.243 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:16:33.244 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:16:33.965 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:16:33.965 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:16:35.415 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:16:35.482 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:16:35.534 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:16:35.535 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:16:45.560 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:16:45.560 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:16:45.560 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:16:50.547 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:16:50.548 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:16:50.596 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:16:50.597 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:17:58.921 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:17:58.931 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:17:58.993 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:17:58.994 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:17:59.962 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:17:59.963 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:18:04.190 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:18:04.258 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:18:04.316 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:18:04.316 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:18:14.344 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:18:14.344 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:18:14.345 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:18:19.660 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:18:19.662 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:18:19.709 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:18:19.709 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:18:57.075 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:18:57.085 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:18:57.153 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:18:57.153 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:18:58.033 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:18:58.034 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:18:59.538 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:18:59.605 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:18:59.667 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:18:59.669 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:19:09.708 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:19:09.709 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:19:09.709 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:19:15.613 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:19:15.614 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:19:15.658 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:19:15.659 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:20:23.259 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:20:23.267 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:20:23.315 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:20:23.316 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:20:24.193 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:20:24.194 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:20:27.620 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:20:27.693 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:20:27.756 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:20:27.757 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:20:37.815 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:20:37.815 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:20:37.816 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:20:42.657 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:20:42.658 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:20:42.707 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:20:42.707 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:21:29.197 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:21:29.206 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:21:29.253 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:21:29.254 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:21:30.224 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:21:30.225 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:21:31.682 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:21:31.745 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:21:31.806 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:21:31.806 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:21:41.868 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:21:41.868 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:21:41.869 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:21:46.317 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:21:46.318 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:21:46.365 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:21:46.366 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:22:38.370 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:22:38.378 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:22:38.462 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:22:38.463 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:22:39.241 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:22:39.241 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:22:42.716 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:22:43.488 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:22:43.547 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:22:43.548 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:22:53.584 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:22:53.585 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:22:53.585 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:22:57.942 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:22:57.943 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:22:57.999 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:22:58.000 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:23:47.751 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:23:47.758 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:23:47.803 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:23:47.804 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:23:48.651 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:23:48.652 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:23:51.045 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:23:51.109 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:23:51.166 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:23:51.167 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:24:01.205 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:24:01.205 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:24:01.206 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:24:05.399 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:24:05.400 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:24:05.448 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:24:05.448 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 14:25:16.075 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:25:16.084 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 14:25:16.125 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 14:25:16.126 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 14:25:16.893 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 14:25:16.894 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 14:25:19.236 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 14:25:19.305 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 14:25:19.372 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 14:25:19.373 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 14:25:29.425 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 14:25:29.426 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 14:25:29.426 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 14:25:34.527 [main] Log - Reading element from JSON file: hamburgerProfile
+[INFO ] 2021-06-28 14:25:34.527 [main] Log - Clicking element: hamburgerProfile
+[INFO ] 2021-06-28 14:25:34.572 [main] Log - Reading element from JSON file: rules
+[INFO ] 2021-06-28 14:25:34.572 [main] Log - Clicking element: rules
+[INFO ] 2021-06-28 16:17:11.145 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 16:17:11.157 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 16:17:11.205 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 16:17:11.206 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 16:17:12.104 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 16:17:12.104 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 16:17:13.657 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 16:17:13.728 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 16:17:13.787 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 16:17:13.788 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 16:17:23.849 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 16:17:23.849 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 16:17:23.850 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 16:17:40.993 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 16:17:41.001 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 16:17:41.050 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 16:17:41.051 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 16:17:41.800 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 16:17:41.801 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 16:17:43.704 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 16:17:43.766 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 16:17:43.825 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 16:17:43.826 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 16:17:53.853 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 16:17:53.853 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 16:17:53.854 [main] Log - Clicking element: login
+[INFO ] 2021-06-28 16:18:40.168 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 16:18:40.176 [main] Log - Clicking element: detailBtn
+[INFO ] 2021-06-28 16:18:40.215 [main] Log - Reading element from JSON file: proceedBtn
+[INFO ] 2021-06-28 16:18:40.216 [main] Log - Clicking element: proceedBtn
+[INFO ] 2021-06-28 16:18:41.069 [main] Log - Reading element from JSON file: exactURL
+[INFO ] 2021-06-28 16:18:41.070 [main] Log - Clicking element: exactURL
+[INFO ] 2021-06-28 16:18:42.620 [main] Log - Reading element from JSON file: userName
+[INFO ] 2021-06-28 16:18:42.680 [main] Log - Reading element from JSON file: password
+[INFO ] 2021-06-28 16:18:42.738 [main] Log - Reading element from JSON file: detailBtn
+[INFO ] 2021-06-28 16:18:42.739 [main] Log - Clicking element: detailBtn
+[ERROR] 2021-06-28 16:18:52.757 [main] Log - Failed to find or click element: detailBtn
+[INFO ] 2021-06-28 16:18:52.757 [main] Log - Reading element from JSON file: login
+[INFO ] 2021-06-28 16:18:52.758 [main] Log - Clicking element: login
