@@ -27,11 +27,13 @@ public class WCLoginPage {
 		sotiActions.sotiClickweb("detailBtn", JSON_LOCATOR_FILE, driver);
 		sotiActions.sotiClickweb("proceedBtn", JSON_LOCATOR_FILE, driver);
 		sotiActions.sotiClickweb("exactURL", JSON_LOCATOR_FILE, driver);
-		sotiActions.sotiSendkeys("userName",JSON_LOCATOR_FILE, "qatester", driver);
-		sotiActions.sotiSendkeys("password",JSON_LOCATOR_FILE, "Mob!Contr@1", driver);
+		sotiActions.sotiSendkeys("userName", JSON_LOCATOR_FILE, "qatester", driver);
+		sotiActions.sotiSendkeys("password", JSON_LOCATOR_FILE, "Mob!Contr@1", driver);
 		sotiActions.sotiClickweb("detailBtn", JSON_LOCATOR_FILE, driver);
 		sotiActions.sotiClickweb("login", JSON_LOCATOR_FILE, driver);
 		System.out.println("User is logged into the Application");
+
+		System.out.println("Testing!");
 
 	}
 
